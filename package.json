@@ -47,5 +47,16 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,md,mdx}": [
+      "prettier --write --no-semi --single-quote",
+      "git add"
+    ]
   }
 }
