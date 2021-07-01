@@ -7876,10 +7876,10 @@ gatsby-plugin-page-creator@^2.3.34:
     graphql "^14.7.0"
     lodash "^4.17.20"
 
-gatsby-plugin-theme-ui@^0.4.0-rc.5:
-  version "0.4.0-rc.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.4.0-rc.5.tgz#e7852adea89c9566281bcc1442a1b8eeb91c4045"
-  integrity sha512-klmO4tk2S0NztGmU3slecw/NuVIPp8N9JRfz91ZF8eUkksX1HKY79vsmd9Beuc1Da6uii7LCUHS4xzkEJApZbw==
+gatsby-plugin-theme-ui@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.10.1.tgz#d1ac7f4f1c4bf187694110a8670f0bb3ff470ad2"
+  integrity sha512-e6xr0BOsasTz1V1d6whAl4C2trHmIS6qg6y8BYdeO0ejMEr2Tc6svvv9E3eJpWsN4kjKFPLwNwb4dp8OvZND7w==
 
 gatsby-plugin-typescript@^2.5.0:
   version "2.5.0"
